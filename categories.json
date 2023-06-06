@@ -1,7 +1,7 @@
 [
   {
-    "category": "Programación general",
-    "description": "Preguntas relacionadas con la programación de software en general."
+    "category": "Back End",
+    "description": "Preguntas relacionadas con la programación de software del lado del servidor."
   },
   {
     "category": "Java",
