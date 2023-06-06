@@ -1,26 +1,26 @@
 [
   {
-    "category": "Cultura",
-    "description": "Preguntas relacionadas con arte, literatura, música y otras expresiones culturales."
+    "category": "Programación general",
+    "description": "Preguntas relacionadas con la programación de software en general."
   },
   {
-    "category": "Deportes",
-    "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
+    "category": "Java",
+    "description": "Preguntas relacionadas con el lenguaje de programación Java."
   },
   {
-    "category": "Arte",
-    "description": "Preguntas relacionadas con pintura, escultura, arquitectura y otras formas de expresión artística."
+    "category": "Scrum",
+    "description": "Preguntas relacionadas con Scrum como metodología agile."
   },
   {
-    "category": "Cine",
-    "description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine."
+    "category": "Bases de datos",
+    "description": "Preguntas relacionadas con bases de datos relacionales y noSQL."
   },
   {
-    "category": "Historia",
-    "description": "Preguntas relacionadas con eventos históricos, personajes y períodos importantes."
+    "category": "ATL Academy",
+    "description": "Preguntas relacionadas con el bootcamp de ATL Academy."
   },
   {
-    "category": "Ciencia",
-    "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos."
+    "category": "¡SORPRESA!",
+    "description": "Preguntas de cualquier tipo."
   }
 ]
