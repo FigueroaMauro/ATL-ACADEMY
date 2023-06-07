@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         int iterador = 0;
 
-        System.out.println("Bienvenido a la calculadora ATL");
+        System.out.println("¡Bienvenido a la calculadora ATL!");
         while(iterador == 0){
             Scanner scanner = new Scanner(System.in);
             mostrarTextoBienvenida();
